@@ -5,13 +5,14 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDBHTUtOeuCON7AEF3UPPxU1sHsnFfBv-M",
-    authDomain: "ecommerce-for.firebaseapp.com",
-    projectId: "ecommerce-for",
-    storageBucket: "ecommerce-for.appspot.com",
-    messagingSenderId: "609664686595",
-    appId: "1:609664686595:web:302bf25cc8efa64a4e4c36"
-};
+    apiKey: "AIzaSyDMfk9pxmzj7TmtIiE8a5AuMlczXCBtMaM",
+    authDomain: "it-sysarch32-store-mendoza.firebaseapp.com",
+    projectId: "it-sysarch32-store-mendoza",
+    storageBucket: "it-sysarch32-store-mendoza.appspot.com",
+    messagingSenderId: "239853650594",
+    appId: "1:239853650594:web:00b440b42723fd9ae60dfb",
+    measurementId: "G-GFLPQ0683J"
+  };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
